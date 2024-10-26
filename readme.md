@@ -3,7 +3,9 @@
 ![appearance](appearance.jpg)  
 
 ## Overview  
-This repository contains the project of a Line Follower Robot developed as part of the Computer Systems Architecture course at the Poznan University of Technology. The robot is designed to autonomously follow a black line on a flat surface using embedded sensors and self-developed control logic. The project involved designing, assembling, and programming the robot from scratch.
+This repository contains the project of a Line Follower Robot developed as part of the Computer Systems Architecture course at the Poznan University of Technology. The robot is designed to autonomously follow a black line on a flat surface using embedded sensors and self-developed control logic. The project involved designing, assembling, and programming the robot from scratch.  
+
+**we managed to create an autonomous system that can follow the line at a speed of approximately 1 m/s**
 
 ## Team Members  
 1. Hubert Błaszczyk - 155085
